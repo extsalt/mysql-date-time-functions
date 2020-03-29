@@ -46,4 +46,4 @@ https://mariadb.com/kb/en/date-time-functions/
 
  `SELECT TIMESTAMP('2003-12-31');` -- create a timestamp
 
- `select time(now());`--time from curren timestamp
+ `select time(now());`--time from current timestamp
