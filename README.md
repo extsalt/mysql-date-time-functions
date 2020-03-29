@@ -2,10 +2,13 @@
 
 https://mariadb.com/kb/en/date-time-functions/
 
+#### Now
 `select now();` -- date and time, timestamp
 
+#### Current date
 `select curdate();` -- current date
 
+#### Time in 24-hour format
 `select curtime();` -- time in 24-hour format
 
 `select year(now());` --year
